@@ -1,0 +1,18 @@
+#navContainer{
+    background-color: black !important;
+}
+
+img {
+    width: 150px;
+}
+
+#nbar {
+    border-radius: 1%;
+    padding-right: 0;
+    margin-right: 0;
+}
+
+.container-sm {
+    padding-right: 0;
+    margin-right: 0;
+}
